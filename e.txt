@@ -1,0 +1,16 @@
+<li class="nav-item">
+                  <a class="nav-link" href="pages/ui-features/buttons.html">Note de la matière</a>
+                  <div class="collapse" id="ui-basic">
+                    <ul class="nav flex-column sub-menu">
+                      <li class="nav-item">
+                        <a href="" class="nav-link">Ajouter une note</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="" class="nav-link">Mettre à jour une note</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="" class="nav-link">Consulter les notes</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
